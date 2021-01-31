@@ -1,1 +1,2 @@
-# ThePaperGame
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
